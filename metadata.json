@@ -1,0 +1,6 @@
+{
+  "name": "Garments Capacity Study",
+  "description": "Professional Garments Capacity Study and Industrial Engineering tool",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
